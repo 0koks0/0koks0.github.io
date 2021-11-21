@@ -1,0 +1,16 @@
+h1 {
+color:rgb(70, 43, 226);
+}
+
+body {
+       background: cadetblue;
+}
+div {
+color: rgb(9, 255, 0);
+background:rgb(70, 43, 226);
+
+width: 200px;
+height: 400px;
+
+border: 15px dashed green;
+padding: 40px;}
