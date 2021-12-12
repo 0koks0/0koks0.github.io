@@ -1,3 +1,3 @@
-# 0koks0.githum.io
+# 0koks0.github.io
 
 Сайт Пияшева Константина
